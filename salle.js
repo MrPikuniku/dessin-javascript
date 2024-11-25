@@ -1,13 +1,12 @@
 // Dimensions de la salle
-const salleWidth = 400; // Largeur de la salle
+const salleWidth = 500; // Largeur de la salle
 const salleHeight = 800; // Hauteur de la salle
 
 // Données pour les tables (position et dimensions)
 const tables = [
   { x: 50, y: 50, width: 100, height: 50 },
-  { x: 200, y: 50, width: 100, height: 50 },
+  { x: 200, y: 100, width: 100, height: 50 },
   { x: 50, y: 150, width: 100, height: 50 },
-  { x: 200, y: 150, width: 100, height: 50 },
 ];
 
 const chairs = [
